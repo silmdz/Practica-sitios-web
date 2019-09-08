@@ -1,0 +1,39 @@
+@media all and (max-width: 800px){
+	.bloque{
+		display: block !important;
+		width: auto !important;
+	}
+}
+.bloque{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	border:1px solid #333;
+	background: #999;
+	margin: 20px;
+}
+
+}
+#secLeft{
+	float: left;
+	height: 200px;
+	
+}
+#secRight{
+	float: right;
+	height: 200px;
+	
+}
+
+#header{
+	background: #F781D8;
+	padding-top: 25px;
+
+}
+#nav{
+	background: #F781D8;
+}
+#lista{
+	float: right;
+	clear:both;
+}
